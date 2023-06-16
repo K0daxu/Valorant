@@ -1,2 +1,0 @@
-Bungas.html
-style.css
