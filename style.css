@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+    background-color: #B13838;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 26px 0;
+}
+
+.cabecalho-imagem{
+    width: 40%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 30px;
+}
+
+.Valorant-imagem{
+    width: 35%;
+}
+
+.Valorant{
+    background-image: linear-gradient(#B13838,#F9D6D6);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.valorant-div-conteúdo{
+    width: 35%;
+}
+.valorant-título{
+    padding: 24px 0;
+}
+
+.personagens-imagem{
+    width: 400px;
+}
+.personagens-icone{
+    width: 60px;
+}
+
+.personagens-div{
+    text-align: center;
+}
+
+.personagens-título{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.personagens-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+     
+}
+.valorant-icone{
+    width: 15%;
+}
+
+.rodapé-imagem{
+    height: 200px;
+    padding: 12px 0;
+}
+
+.rodapé{
+    background-color: #111146;
+   text-align: center;
+}
+
+.Personagens{
+    background-image: linear-gradient(#F9D6D6,#111146);
+}
